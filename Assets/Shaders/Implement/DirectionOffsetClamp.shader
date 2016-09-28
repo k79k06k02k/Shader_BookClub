@@ -1,4 +1,4 @@
-﻿Shader "Tutorial/DirectionOffsetClamp"
+﻿Shader "Tutorial/Implement/DirectionOffsetClamp"
 {
 	Properties
 	{

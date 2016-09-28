@@ -1,4 +1,4 @@
-﻿Shader "Tutorial/Fade"
+﻿Shader "Tutorial/Implement/Fade"
 {
 	Properties 
 	{

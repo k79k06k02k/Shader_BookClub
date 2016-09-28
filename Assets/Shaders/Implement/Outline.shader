@@ -1,4 +1,4 @@
-﻿Shader "Tutorial/Outline"
+﻿Shader "Tutorial/Implement/Outline"
 {
     Properties
     {

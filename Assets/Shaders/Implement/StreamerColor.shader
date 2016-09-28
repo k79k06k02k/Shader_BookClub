@@ -1,4 +1,4 @@
-﻿Shader "Tutorial/StreamerColor"
+﻿Shader "Tutorial/Implement/StreamerColor"
 {
 	Properties
 	{
