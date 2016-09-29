@@ -18,7 +18,6 @@
 			CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #include "UnityCG.cginc"
 
 			fixed _Outline;
 			fixed4 _OutlineColor;
@@ -54,7 +53,6 @@
 			CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #include "UnityCG.cginc"
 
 			sampler2D _Texture;
 			

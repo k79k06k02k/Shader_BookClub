@@ -16,8 +16,6 @@
 			#pragma vertex vert
 			#pragma fragment frag
 
-			#include "UnityCG.cginc"
-
 			sampler2D _Texture;
 			fixed _Scale;
 
